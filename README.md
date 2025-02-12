@@ -83,7 +83,7 @@ These metrics are calculated after each round to assess both local and global mo
 
 ## 🚀 View The Project
 
-- **The completed project link is** https://colab.research.google.com/drive/1ZVcq7JBQSw41tWbhU8HZ3rnzp1dSphb6
+- **The completed project link is** [Google Colab](https://colab.research.google.com/drive/1ZVcq7JBQSw41tWbhU8HZ3rnzp1dSphb6)
 
 ## 🤝 Meet the Team
 
