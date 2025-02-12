@@ -81,20 +81,9 @@ We use several metrics to evaluate model performance:
 
 These metrics are calculated after each round to assess both local and global model performance.
 
-## 🖥️ Web Application
+## 🚀 View The Project
 
-The project includes a Streamlit web application that allows users to interact with the federated learning process. Users can:
-- View the original and augmented datasets.
-- Monitor training metrics and progress.
-- Explore the federated learning process and final report.
-- Hosted at Streamlit by 
-
-## 🚀 Getting Started
-
-To run the project, follow these steps:
-1. Clone the repository from GitHub.
-2. Install the required dependencies using `requirements.txt`.
-3. Deploy the Streamlit app to explore the project.
+- **The completed project link is** https://colab.research.google.com/drive/1ZVcq7JBQSw41tWbhU8HZ3rnzp1dSphb6
 
 ## 🤝 Meet the Team
 
